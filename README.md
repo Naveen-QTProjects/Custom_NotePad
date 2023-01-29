@@ -5,6 +5,7 @@ In this project I have created a custom notepad whose main Highlight is custom "
 Highlights:
 
 1.You can select the text in main window you want to search and it will automatically update text in your Find Widget.
+
 2. If you find the same text further down the document when pressed Find Next, it will keep automatically show the selection in MainWindow Widget
 (Still working and upload new version with full complete changes).
 
